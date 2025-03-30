@@ -7,7 +7,9 @@
 📂 Files:
 
 data/career_aspirations.xlsx – Raw survey data collected via Google Forms.
+
 dashboards/Career_Aspirations.pbix – Power BI Dashboard.
+
 reports/Career_Aspirations_Report.pdf – Summary of key findings.
 
 📊 Key Insights:
@@ -32,7 +34,9 @@ reports/Career_Aspirations_Report.pdf – Summary of key findings.
 📂 Files:
 
 data/student_depression.xlsx – Raw survey data from Google Forms.
+
 dashboards/Student_Depression_Analysis.xlsx – Excel file with visualizations and findings.
+
 reports/Student_Depression_Report.pdf – Summary of insights and recommendations.
 
 📊 Key Insights:
