@@ -43,7 +43,7 @@ reports/Student_Depression_Report.pdf – Summary of insights and recommendation
 
 ✔️ Many students do not seek professional help due to stigma and lack of awareness.
 
-✔️ Exercise, meditation, and peer support play a vital role in mental well-being.
+✔️ Exercise, meditation, and peer support are vital in mental well-being.
 
 🔧 Tools Used:
 ✅ Excel – Data analysis, statistical functions, charts
